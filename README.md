@@ -32,7 +32,7 @@ object **Ambrosio** {
 
 }
 ```
-<img align="right" width="150" height="195" src="https://steamuserimages-a.akamaihd.net/ugc/1497964060678239075/B20240FFBFE61D9D78E590FD603870D03531B16C/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ambrosio9722&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ambrosio9722&layout=compact&theme=radical)
