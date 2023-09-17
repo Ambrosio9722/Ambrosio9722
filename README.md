@@ -18,9 +18,24 @@
 </div>
 
 ##
+## Mais sobre mim
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right">
+
+```kotlin
+object **SEU NOME** {
+ val name = "SEU NOME COMPLETO"
+ val acknowledgements = "ÁREA DE CONHECIMENTO"
+
+ val primarySkillset = "ALGUMAS HABILIDADES"
+ val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React")
+
+}
+```
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ambrosio9722&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ambrosio9722&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ambrosio9722&layout=compact&theme=radical)
+
 
 ##
 
