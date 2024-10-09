@@ -16,6 +16,9 @@
   <img align="center" alt="AAS-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="AAS-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="R-logo" height="30" width="40" src="https://www.r-project.org/logo/Rlogo.png">
+  <img align="center" alt="C++-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Unity-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
+
 
 </div>
 
@@ -30,7 +33,7 @@ object **Ambrosio** {
  val acknowledgements = "Engenharia de Computação"
 
  val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "C++", "JavaScript", "HTML", "C++")
+ val languages = listOf("R", "C++", "JavaScript", "HTML", "C#")
 
 }
 ```
