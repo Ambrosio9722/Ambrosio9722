@@ -18,7 +18,6 @@
 <img align="center" alt="C++-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 <img align="center" alt="R-logo" height="30" width="40" src="https://www.r-project.org/logo/Rlogo.png">
 <img align="center" alt="Unity-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
-<img align="center" alt="Assembly-logo" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Nasm_logo.png">
 
 
 
