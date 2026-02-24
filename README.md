@@ -46,6 +46,8 @@ object **Ambrosio** {
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ambrosio9722&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ambrosio9722&layout=compact&theme=radical&hide=ShaderLab,Rich%20Text%20Format)
 
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ambrosio9722&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ambrosio9722&layout=compact&theme=radical)
 ##
 
